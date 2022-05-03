@@ -6,15 +6,11 @@ derive_targets_from_directories: true
 
 targets:
   # If source code isn't resolving, add additional targets that compile it here
-  //translator-salus:SalusApp
 
 additional_languages:
   # Uncomment any additional languages you want supported
   # android
   # dart
-  # go
-  # javascript
   # kotlin
   # python
   # scala
-  # typescript
